@@ -260,6 +260,6 @@ On the simulated dataset (161 employees, ~6,600 generated activities):
 
 ## 👤 Author
 
-**YAD** — Data Engineer
+**YILMAZ - AD** — Data Engineer
 Built as part of the OpenClassrooms Data Engineering program (Project 12 —
 Managing an Infrastructure Project).
