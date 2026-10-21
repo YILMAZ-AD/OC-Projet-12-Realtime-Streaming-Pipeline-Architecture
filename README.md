@@ -1,3 +1,6 @@
+🇫🇷 Français | readme in english 👉 [🇬🇧 English](README.en.md)
+
+
 # Sport Data Solution - Pipeline de données en temps réel & Lakehouse
 
 ### Une architecture complète de streaming et de Lakehouse, de bout en bout
