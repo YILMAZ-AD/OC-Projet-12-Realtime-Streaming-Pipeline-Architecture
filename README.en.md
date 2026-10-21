@@ -1,3 +1,5 @@
+🇬🇧 English | readme en français 👉 [🇫🇷 Français](README.md)
+
 # --- Sport Data Solution — Real-Time Streaming & Lakehouse Pipeline ---
 
 ### End-to-End Real-Time Data Streaming & Lakehouse Architecture
